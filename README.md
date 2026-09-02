@@ -1,34 +1,59 @@
-# 👋 Hi, I'm Devika K G
+# Hey, I'm Devika K G! ✨
 
-### 🤖 AI/ML & Full Stack Developer
+### AI/ML • Backend • Full Stack
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student at Velammal Engineering College, passionate about **AI/ML, backend development, and building real-world applications**.
+🎓 B.Tech AI & Data Science @ Velammal Engineering College
+⚡ Building things, breaking things, and learning how to build them better.
 
-🎓 B.Tech AI & Data Science | **CGPA: 8.86** | Expected 2027
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devika%20K%20G-0A66C2?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-DevikaKG-181717?style=flat-square\&logo=github)](YOUR_GITHUB_URL)
 
-## 🛠️ Tech Stack
+### 🧩 A little about me
 
-**Languages:** Python • Java • SQL • JavaScript
-**Backend:** Flask • Spring Boot • REST APIs
-**AI/ML:** Machine Learning • PySpark • LangGraph • RAG • Gemini AI
-**Frontend:** React • HTML • CSS
-**Database:** MySQL • Firebase • ChromaDB
-**Tools:** Git • GitHub • Postman • Docker
+* 🛠️ Building **backend systems and AI-powered applications**
+* 🧠 Exploring **Generative AI, RAG, and AI Agents**
+* ☕ Currently diving deeper into **Java & Spring Boot**
+* 🐍 Comfortable working with **Python & Flask**
+* 📡 Love working with **APIs, databases, and automation**
+* 🏅 Hackathon Winner — **1st Prize at Maatram Foundation Hackathon**
 
-## 🏆 Achievements
+### 💻 Languages & Tools
 
-🥇 **1st Prize – HackForge Hackathon by Maatram Foundation**
-Developed a voice-based scholarship verification solution and won **₹30,000**.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,spring,mysql,firebase,git,postman,docker" />
+</p>
 
-🥇 **1st Prize – College Hackathon**
-Developed a **Sentiment Analysis using PySpark** solution.
+### 🧠 AI / ML Stack
 
-## 🚀 Interests
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
 
-AI/ML • Backend Development • Generative AI • AI Agents • Data Science • System Design
+`PySpark` `LangGraph` `RAG` `Gemini AI` `Machine Learning`
 
-## 📫 Connect With Me
+### 🔨 Things I've Built
 
-💼 LinkedIn • 🐙 GitHub • 📧 Email
+**🎙️ Voice-Based Scholarship Verification**
+AI-powered verification system using voice processing, AI agents, and sentiment analysis.
 
-> *Building, learning, and turning ideas into impactful solutions.*
+**💬 YouTube Sentiment Analysis**
+PySpark-based sentiment and hate-speech analysis system.
+
+**⚡ Power Load Forecasting**
+Electricity demand forecasting using **LSTM + XGBoost**.
+
+### 🏆 Achievements
+
+🥇 **1st Prize — HackForge Hackathon, Maatram Foundation**
+💰 ₹30,000 Prize | AI-powered Scholarship Verification
+
+🥇 **1st Prize — College Hackathon**
+💡 Sentiment Analysis using PySpark
+
+### 📈 GitHub
+
+![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 🌱 Learning. Building. Improving. 🚀
