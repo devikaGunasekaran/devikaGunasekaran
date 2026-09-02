@@ -3,6 +3,7 @@
 ### AI/ML • Backend • Full Stack
 
 🎓 B.Tech AI & Data Science @ Velammal Engineering College
+
 ⚡ Building things, breaking things, and learning how to build them better.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devika%20K%20G-0A66C2?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
@@ -20,7 +21,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,spring,mysql,firebase,git,postman,docker" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,spring,mysql,firebase,git,postman,docker" />
 </p>
 
 ### 🧠 AI / ML Stack
@@ -30,6 +31,7 @@
 </p>
 
 `PySpark` `LangGraph` `RAG` `Gemini AI` `Machine Learning`
+
 
 ### 🔨 Things I've Built
 
@@ -42,6 +44,8 @@ PySpark-based sentiment and hate-speech analysis system.
 **⚡ Power Load Forecasting**
 Electricity demand forecasting using **LSTM + XGBoost**.
 
+
+
 ### 🏆 Achievements
 
 🥇 **1st Prize — HackForge Hackathon, Maatram Foundation**
@@ -50,9 +54,6 @@ Electricity demand forecasting using **LSTM + XGBoost**.
 🥇 **1st Prize — College Hackathon**
 💡 Sentiment Analysis using PySpark
 
-### 📈 GitHub
-
-![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
