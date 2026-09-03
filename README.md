@@ -3,7 +3,8 @@
 ### 🤖 AI/ML • Backend • Full Stack
 
 🎓 B.Tech Artificial Intelligence & Data Science @ Velammal Engineering College
-💡 Passionate about building **AI-powered applications and scalable backend systems**
+
+⚡ Building things, breaking things, and learning how to build them better.
 
 <p align="left">
   <a href="https://devikakg.vercel.app/">
@@ -18,7 +19,6 @@
 
 
 
-
 ### 🧩 What I'm up to
 
 * 🧠 Exploring **Generative AI, RAG & AI Agents**
@@ -29,6 +29,7 @@
 * 🏆 **1st Prize Winner** — HackForge Hackathon with 30000 cash prize
   
 
+
 ### 🛠️ Tech I Work With
 
 <p align="left">
@@ -38,8 +39,6 @@
 ### 🧠 AI / ML
 
 `Machine Learning` · `PySpark` · `LangGraph` · `RAG` · `Gemini AI`
-
-
 
 
 
