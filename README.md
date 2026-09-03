@@ -6,8 +6,7 @@
 
 ⚡ Building things, breaking things, and learning how to build them better.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devika%20K%20G-0A66C2?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-DevikaKG-181717?style=flat-square\&logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://www.linkedin.com/in/devika-k-g-a9a9ba297/)](YOUR_LINKEDIN_URL)
 
 ### 🧩 A little about me
 
@@ -33,28 +32,5 @@
 `PySpark` `LangGraph` `RAG` `Gemini AI` `Machine Learning`
 
 
-### 🔨 Things I've Built
-
-**🎙️ Voice-Based Scholarship Verification**
-AI-powered verification system using voice processing, AI agents, and sentiment analysis.
-
-**💬 YouTube Sentiment Analysis**
-PySpark-based sentiment and hate-speech analysis system.
-
-**⚡ Power Load Forecasting**
-Electricity demand forecasting using **LSTM + XGBoost**.
-
-
-
-### 🏆 Achievements
-
-🥇 **1st Prize — HackForge Hackathon, Maatram Foundation**
-💰 ₹30,000 Prize | AI-powered Scholarship Verification
-
-🥇 **1st Prize — College Hackathon**
-💡 Sentiment Analysis using PySpark
-
-
----
 
 ### 🌱 Learning. Building. Improving. 🚀
