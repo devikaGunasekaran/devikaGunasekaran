@@ -2,9 +2,8 @@
 
 ### 🤖 AI/ML • Backend • Full Stack
 
-🎓 B.Tech Artificial Intelligence & Data Science @ Velammal Engineering College
-
 ⚡ Building things, breaking things, and learning how to build them better.
+
 
 <p align="left">
   <a href="https://devikakg.vercel.app/">
