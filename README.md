@@ -37,7 +37,7 @@
 
 ### 🧠 AI / ML
 
-`Machine Learning` · `PySpark` · `LangGraph` · `RAG` · `Gemini AI`
+`Machine Learning` · `LangGraph` · `RAG`
 
 
 
