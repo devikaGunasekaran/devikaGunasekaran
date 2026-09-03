@@ -1,36 +1,43 @@
-# Hey, I'm Devika K G! ✨
+# Hey, I'm Devika K G! 👋🏻
 
-### AI/ML • Backend • Full Stack
+### 🤖 AI/ML • Backend • Full Stack
 
-🎓 B.Tech AI & Data Science @ Velammal Engineering College
-
-⚡ Building things, breaking things, and learning how to build them better.
-
-[![LinkedIn](https://www.linkedin.com/in/devika-k-g-a9a9ba297/)](YOUR_LINKEDIN_URL)
-
-### 🧩 A little about me
-
-* 🛠️ Building **backend systems and AI-powered applications**
-* 🧠 Exploring **Generative AI, RAG, and AI Agents**
-* ☕ Currently diving deeper into **Java & Spring Boot**
-* 🐍 Comfortable working with **Python & Flask**
-* 📡 Love working with **APIs, databases, and automation**
-* 🏅 Hackathon Winner — **1st Prize at Maatram Foundation Hackathon**
-
-### 💻 Languages & Tools
+🎓 B.Tech Artificial Intelligence & Data Science @ Velammal Engineering College
+💡 Passionate about building **AI-powered applications and scalable backend systems**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,spring,mysql,firebase,git,postman,docker" />
+  <a href="https://devikakg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devika-k-g-a9a9ba297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-### 🧠 AI / ML Stack
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" />
+
+---
+
+### 🧩 What I'm up to
+
+* 🧠 Exploring **Generative AI, RAG & AI Agents**
+* ⚙️ Building backend applications with **Python, Flask & Spring Boot**
+* 🔗 Working with **REST APIs, databases & automation**
+* 📊 Exploring **Machine Learning & Big Data**
+* ☕ Currently strengthening my **Java & Spring Boot** skills
+* 🏆 **1st Prize Winner** — HackForge Hackathon with 30000 cash prize
+  
+
+### 🛠️ Tech I Work With
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,spring,react,mysql,firebase,git,github,postman,docker" />
 </p>
 
-`PySpark` `LangGraph` `RAG` `Gemini AI` `Machine Learning`
+### 🧠 AI / ML
+
+`Machine Learning` · `PySpark` · `LangGraph` · `RAG` · `Gemini AI`
 
 
 
-### 🌱 Learning. Building. Improving. 🚀
+### 🌱 Learn • Build • Repeat • 🚀
