@@ -14,9 +14,10 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=devikaGunasekaran&label=Profile%20Views&color=6C63FF&style=flat-square" />
 
----
+
+
 
 ### 🧩 What I'm up to
 
@@ -37,6 +38,8 @@
 ### 🧠 AI / ML
 
 `Machine Learning` · `PySpark` · `LangGraph` · `RAG` · `Gemini AI`
+
+
 
 
 
