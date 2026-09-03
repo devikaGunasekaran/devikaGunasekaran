@@ -1,4 +1,4 @@
-# Hey, I'm Devika K G! 👋🏻
+# Hey, I'm Devika K G! 👋
 
 ### 🤖 AI/ML • Backend • Full Stack
 
